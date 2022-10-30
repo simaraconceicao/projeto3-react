@@ -26,7 +26,11 @@ Footer
 
 
 ```
+import { Header } from './components/Header'
+import { Bio } from './components/Bio'
 import { Search } from './components/Search'
+import { Footer } from './components/Footer'
+
 import './App.css'
 
 function App() {
@@ -41,4 +45,5 @@ function App() {
 }
 
 export default App
+
 ```
